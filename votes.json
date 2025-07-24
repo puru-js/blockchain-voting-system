@@ -1,10 +1,7 @@
 [
-    {
-        "voter_id": "hello",
-        "candidate": "Rohan Mehta"
-    },
+  
     {
         "voter_id": "2416691",
         "candidate": "Aarav Sharma"
-    }
+    },
 ]
